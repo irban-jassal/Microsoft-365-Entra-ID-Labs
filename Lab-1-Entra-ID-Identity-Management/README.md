@@ -84,7 +84,7 @@ Assigned users to the IT group.
 
 Assigned users to the HR group.
 
-![HR Group Assignment](group-assignment-hr.png)
+![HR Group Assignment](group-assignment-sales.png)
 
 ---
 
