@@ -44,7 +44,7 @@ As a Microsoft 365 Administrator, I need to configure Conditional Access policie
 
 Created and configured a Conditional Access policy requiring MFA.
 
-![Conditional Access Policy](conditional-access-policy.png.png)
+![Conditional Access Policy](conditional-access-policy.png)
 
 ---
 
