@@ -52,7 +52,7 @@ Groups created:
 
 Created and managed users within Microsoft Entra ID.
 
-![Users](Users.png)
+![Users](users.png)
 
 ---
 
@@ -60,7 +60,7 @@ Created and managed users within Microsoft Entra ID.
 
 Created and reviewed security groups.
 
-![Groups](Groups.png)
+![Groups](groups.png)
 
 ---
 
@@ -68,7 +68,7 @@ Created and reviewed security groups.
 
 Assigned users to the Sales security group.
 
-![Group Assignment Sales](Group-Assignment-Sales.png)
+![Group Assignment Sales](group-assignment-sales.png)
 
 ---
 
@@ -76,7 +76,7 @@ Assigned users to the Sales security group.
 
 Assigned users to the IT security group.
 
-![Group Assignment IT](Group Assignment IT.png)
+![Group Assignment IT](group-assignment-it.png)
 
 ---
 
@@ -84,7 +84,7 @@ Assigned users to the IT security group.
 
 Assigned users to the HR security group.
 
-![Group Assignment HR](Group Assignment HR.png)
+![Group Assignment HR](group-assignment-hr.png)
 
 ---
 
@@ -92,7 +92,7 @@ Assigned users to the HR security group.
 
 Reviewed role assignment and administrator permissions.
 
-![IT Role Assignment](IT Role Assignment.png)
+![IT Role Assignment](it.role-assignment.png)
 
 ---
 
@@ -100,7 +100,7 @@ Reviewed role assignment and administrator permissions.
 
 Reviewed authentication methods configured for users.
 
-![Authentication Methods](Authentication Methods.png)
+![Authentication Methods](authentication-methods.png)
 
 ---
 
