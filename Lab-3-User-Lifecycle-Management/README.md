@@ -91,7 +91,7 @@ Disabled a user account to remove access while keeping the account available.
 
 Removed a user account from Microsoft Entra ID.
 
-![Deleted User](deleted-user.png)
+![Deleted User](deleted-users.png)
 
 ---
 
