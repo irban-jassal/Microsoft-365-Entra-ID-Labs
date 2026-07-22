@@ -72,4 +72,4 @@ I'm continuously expanding this repository with additional Microsoft 365 adminis
 
 ---
 
-hank you for visiting my repository.
+Thank you for visiting my repository.
