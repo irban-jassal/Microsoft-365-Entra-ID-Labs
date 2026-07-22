@@ -1,32 +1,32 @@
-# Lab 1 - Microsoft Entra ID Identity Management
+ Lab 1 - Microsoft Entra ID Identity Management
 
 ## Objective
 
-Learn how to manage identities, groups, role assignments, and authentication settings in Microsoft Entra ID.
+Learn how to manage users, groups, role assignments, and authentication settings in Microsoft Entra ID.
 
 ---
 
 ## Business Scenario
 
-As a Microsoft 365 Administrator, I am responsible for managing user identities, organizing users into security groups, assigning appropriate access, and reviewing authentication configurations.
+As a Microsoft 365 Administrator, I need to manage user identities, organize users into groups, assign appropriate access, and review authentication configurations.
 
 This lab demonstrates common identity administration tasks performed in a Microsoft Entra ID environment.
 
 ---
 
-# Tasks Completed
+## Tasks Completed
 
-## User Management
+### User Management
 
 - Created and reviewed users in Microsoft Entra ID
-- Verified user information and account settings
-- Explored identity management options
+- Explored user properties
+- Verified account information
 
-## Group Management
+### Group Management
 
-- Created security groups for different departments
-- Assigned users to appropriate groups
-- Reviewed group membership
+- Created security groups
+- Assigned users to department-based groups
+- Reviewed group memberships
 
 Groups created:
 
@@ -34,15 +34,15 @@ Groups created:
 - IT Group
 - HR Group
 
-## Role Assignment
+### Role Assignment
 
 - Reviewed Microsoft Entra ID role assignments
-- Explored administrator role management
+- Explored administrator permissions
 
-## Authentication Methods
+### Authentication Methods
 
-- Reviewed available authentication methods
-- Explored authentication settings used for identity security
+- Reviewed authentication methods
+- Explored identity security settings
 
 ---
 
@@ -50,7 +50,7 @@ Groups created:
 
 ## Users
 
-Created and managed users within Microsoft Entra ID.
+Created and managed users in Microsoft Entra ID.
 
 ![Users](users.png)
 
@@ -58,7 +58,7 @@ Created and managed users within Microsoft Entra ID.
 
 ## Groups
 
-Created and reviewed security groups.
+Created and reviewed Microsoft Entra ID groups.
 
 ![Groups](groups.png)
 
@@ -66,39 +66,39 @@ Created and reviewed security groups.
 
 ## Sales Group Assignment
 
-Assigned users to the Sales security group.
+Assigned users to the Sales group.
 
-![Group Assignment Sales](group-assignment-sales.png)
+![Sales Group Assignment](group-assignment-sales.png)
 
 ---
 
 ## IT Group Assignment
 
-Assigned users to the IT security group.
+Assigned users to the IT group.
 
-![Group Assignment IT](group-assignment-it.png)
+![IT Group Assignment](group-assignment-it.png)
 
 ---
 
 ## HR Group Assignment
 
-Assigned users to the HR security group.
+Assigned users to the HR group.
 
-![Group Assignment HR](group-assignment-hr.png)
+![HR Group Assignment](group-assignment-hr.png)
 
 ---
 
 ## IT Role Assignment
 
-Reviewed role assignment and administrator permissions.
+Reviewed role assignments and administrator permissions.
 
-![IT Role Assignment](it.role-assignment.png)
+![IT Role Assignment](it-role-assignment.png)
 
 ---
 
 ## Authentication Methods
 
-Reviewed authentication methods configured for users.
+Reviewed authentication methods used for identity security.
 
 ![Authentication Methods](authentication-methods.png)
 
@@ -107,10 +107,10 @@ Reviewed authentication methods configured for users.
 # Key Learnings
 
 - Learned how Microsoft Entra ID manages cloud identities.
-- Practiced user and group administration.
-- Understood how role assignments control administrative permissions.
-- Learned the importance of authentication methods in securing user accounts.
-- Gained hands-on experience navigating Microsoft Entra Admin Center.
+- Practiced user creation and identity management.
+- Learned how security groups simplify access management.
+- Understood Role-Based Access Control (RBAC).
+- Reviewed authentication methods used to secure user accounts.
 
 ---
 
@@ -123,3 +123,5 @@ Reviewed authentication methods configured for users.
 - Role-Based Access Control (RBAC)
 - Authentication Methods
 - Microsoft 365 Administration
+
+---
