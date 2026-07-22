@@ -59,7 +59,7 @@ Created a new user account in Microsoft Entra ID.
 
 Assigned users to appropriate security groups.
 
-![John Group Assignment](john-group-assignment.png)
+![John Group Assignment](john.group-assignment.png)
 
 ---
 
