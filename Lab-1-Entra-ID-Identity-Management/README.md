@@ -68,7 +68,7 @@ Created and reviewed security groups.
 
 Assigned users to the Sales security group.
 
-![Group Assignment Sales](Group Assignment Sales.png)
+![Group Assignment Sales](Group-Assignment-Sales.png)
 
 ---
 
